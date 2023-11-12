@@ -54,7 +54,7 @@ Contributors names and contact info
 
 Paul Andre A. Gabriel
 Contact Information
-Facebook:[http.www.facebook.com/](https://www.facebook.com/C43ETFiction/)
+Facebook:[http.www.facebook.com/C43ETFiction](https://www.facebook.com/C43ETFiction/)
 
 ## License
 
