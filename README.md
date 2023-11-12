@@ -15,9 +15,11 @@ To run this program, you can use Remix, an online Solidity IDE. To get started, 
 
 ### Executing program
 
-*
+* Below are the Main Blocks of codes. We have created a functions and its data types inside of the contract Mytoken.
 
 ```
+pragma solidity 0.8.18; //solidity version
+
 contract MyToken {
 
     // public variables here
@@ -29,7 +31,7 @@ contract MyToken {
     mapping(address => uint) 
     public balances;
     
-    // mint function
+    // mint function 
     function mint (address _address, uint value) public{ 
         totalSupply += value;
         balances [_address] = value;
