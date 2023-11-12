@@ -47,21 +47,15 @@ contract MyToken {
 }
 ```
 
-## Help
-
-Any advise for common problems or issues.
-```
-command to run if program contains helper info
-```
 
 ## Authors
 
 Contributors names and contact info
 
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
-
+Paul Andre A. Gabriel
+Contact Information
+Facebook:[http.www.facebook.com/](https://www.facebook.com/C43ETFiction/)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the [Paul Andre A. Gabriel] License - see the LICENSE.md file for details
