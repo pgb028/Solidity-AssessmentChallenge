@@ -22,6 +22,7 @@ Similarly, mint function has code which add the inputted value in the already ex
 To run this program, I have used online Remix Solidity IDE. You can visit the Remix website at https://remix.ethereum.org/ . Extension used for creating a new file is .sol , example: fileName.sol
 
 // SPDX-License-Identifier: MIT
+
 pragma solidity 0.8.18;  
 
 contract MyToken {
