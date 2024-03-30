@@ -26,7 +26,6 @@ To run this program, I have used online Remix Solidity IDE. You can visit the Re
 pragma solidity 0.8.18;  
 
 contract MyToken {
-
     // public variables here
     string public name = "Hakuna"; 
     string public symbol = "HKN"; 
