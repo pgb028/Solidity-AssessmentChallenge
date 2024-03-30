@@ -1,6 +1,6 @@
 This is a program in Solidity that provides basic functionalities to mint new tokens and burn existing ones, following the specified requirements.
 
-##Description
+## Description
 This program contains a simple contract with name MyToken, which contains two functions named as burn and mint, and a mapping variable named as balances.The burn functionality basically describes the code for burning or deduction of provided value from balances. 
 Similarly, mint function has code which add the inputted value in the already existing balances.
 
@@ -15,9 +15,10 @@ Similarly, mint function has code which add the inputted value in the already ex
        and from the balance of the “sender”.
     5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned.
-##Getting Started
+## Getting Started
 
-###Executing the program
+### Executing program
+
 To run this program, I have used online Remix Solidity IDE. You can visit the Remix website at https://remix.ethereum.org/ . Extension used for creating a new file is .sol , example: fileName.sol
 
 // SPDX-License-Identifier: MIT
@@ -58,9 +59,10 @@ Speaking of addresses, you can use a default address provided by the IDE, to do 
 Now, copy the address by clicking the "Copy account to clipboard" symbol. After copying the desired account you can now paste it on the address field of the balances, burn and mint functions then just put a value you want to mint or burn for that address. 
 Lastly, after the fields are now populated you can now click "transact" in order to call the burn and mint functions.
 
-##Authors
+## Authors
 
 Paul Andre Gabriel[201811412@fit.edu.ph]
 
-##License
+## License
+
 This project is licensed under the MIT License - see the LICENSE.md file for details
